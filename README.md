@@ -24,9 +24,4 @@ Through this task, I gained valuable knowledge and experience in:
 - Implementing encryption and decryption functions in Python.
 - Handling user input and performing string manipulations in Python.
 
-## Repository Contents
-
-- **PRODIGY_CS_01.py:** The main Python script containing the implementation of the Caesar Cipher.
-- **README.md:** This file, providing an overview of the task and the project.
-
 
